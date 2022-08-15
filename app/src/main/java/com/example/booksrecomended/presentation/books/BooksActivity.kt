@@ -12,6 +12,5 @@ class BooksActivity : AppCompatActivity() {
         binding = ActivityBooksBinding.inflate(layoutInflater)
         setContentView(binding.root)
         binding.toolbarActivityBooks.title = getString(R.string.books)
-        setSupportActionBar(binding.toolbarActivityBooks)
     }
 }
