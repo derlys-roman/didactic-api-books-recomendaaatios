@@ -1,4 +1,4 @@
-package com.example.booksrecomended.presentation.books
+package com.example.booksrecomended.presentation.books.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
